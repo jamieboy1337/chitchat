@@ -1,0 +1,9 @@
+{
+    "name": "chitchat_tests",
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}
